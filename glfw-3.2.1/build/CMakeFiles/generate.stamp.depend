@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+G:/Year 3/OpenGlTUT/glfw-3.2.1/CMakeLists.txt
+G:/Year 3/OpenGlTUT/glfw-3.2.1/build/CMakeFiles/3.9.3/CMakeSystem.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeSystemSpecificInitialize.cmake
+G:/Year 3/OpenGlTUT/glfw-3.2.1/build/CMakeFiles/3.9.3/CMakeCCompiler.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeSystemSpecificInformation.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeGenericSystem.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/Platform/Windows.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/Platform/WindowsPaths.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeCInformation.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeLanguageInformation.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/Platform/Windows-MSVC-C.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/Platform/Windows-MSVC.cmake
+G:/Year 3/OpenGlTUT/glfw-3.2.1/build/CMakeFiles/3.9.3/CMakeRCCompiler.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeRCInformation.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakeCommonLanguageInclude.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindThreads.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CheckLibraryExists.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CheckSymbolExists.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CheckIncludeFile.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageMessage.cmake
+G:/Year 3/OpenGlTUT/glfw-3.2.1/CMake/modules/FindVulkan.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageMessage.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindDoxygen.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/FindPackageMessage.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/CMakePackageConfigHelpers.cmake
+E:/UniSTuff/share/cmake-3.9/Modules/WriteBasicConfigVersionFile.cmake
+G:/Year 3/OpenGlTUT/glfw-3.2.1/src/glfw3Config.cmake.in
+E:/UniSTuff/share/cmake-3.9/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+G:/Year 3/OpenGlTUT/glfw-3.2.1/src/glfw_config.h.in
+G:/Year 3/OpenGlTUT/glfw-3.2.1/src/glfw3.pc.in
+G:/Year 3/OpenGlTUT/glfw-3.2.1/cmake_uninstall.cmake.in
